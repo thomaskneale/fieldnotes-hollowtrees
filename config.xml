@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.thomaskwyatt"
+    versionCode = "10"
+    version     = "0.5.6" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Field Notes</name>
+
+  <description>
+      Field Notes on Trees and Hollows.
+  </description>
+
+  <author href="http://www.thomaskwyatt.com" email="thomas.wyatt.94@gmail.com">
+      Thomas K. Wyatt
+  </author>
+  
+  <icon src="icon.png" />
+  
+  <preference name="android-minSdkVersion" value="26" />  
+
+</widget>
